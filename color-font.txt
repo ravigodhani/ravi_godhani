@@ -1,0 +1,8 @@
+ color pellet - 260c1a-432e36-5f4842-af8d86-edbfc6
+ color name - Dark Purple - Eggplant - Liver - Rosy brown- tes rose
+
+ font-family - font-family: 'Tilt Neon', sans-serif;
+ 
+ font link - <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
